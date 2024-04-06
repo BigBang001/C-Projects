@@ -47,7 +47,7 @@ Task Master is developed with the following objectives in mind:
 
 1. **Clone the Repository:**
 
-   git clone https://github.com/BigBang001/task-genius.git
+   git clone https://github.com/BigBang001/TaskGenius.git
    
 3. **Navigate to the Task Master Directory:**
 
