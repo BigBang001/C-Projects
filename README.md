@@ -47,7 +47,7 @@ Task Master is developed with the following objectives in mind:
 
 1. **Clone the Repository:**
 
-   git clone https://github.com/BigBang001/TaskGenius.git
+   git clone https://github.com/BigBang001/TaskMaster.git
    
 3. **Navigate to the Task Master Directory:**
 
@@ -55,7 +55,7 @@ Task Master is developed with the following objectives in mind:
    
 4. **Compile and Run the Application:**
 
-   g++ task_master.cpp -o task_genius./task_genius
+   g++ task_master.cpp -o task_master./task_master
    
 
 ### Contributing
